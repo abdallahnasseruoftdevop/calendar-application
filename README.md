@@ -1,4 +1,4 @@
-Welcome to the Calendar Application!
+# Calendar Application!
 
 This application allows you to create and manage events, schedule appointments, and set reminders for yourself or others.
 
